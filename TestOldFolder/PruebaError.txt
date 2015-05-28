@@ -1,1 +1,2 @@
 Genera error en log
+Linea2
